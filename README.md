@@ -77,7 +77,7 @@
 
 |                        로그인                         |                       회원가입                       |
 | :---------------------------------------------------: | :--------------------------------------------------: |
-| <img src="./readme/layout/login.png" width="300px" /> | <img src="./readme/layout/join.png" width="300px" /> |
+| <img src="./readme/layout/login.png" width="500px" /> | <img src="./readme/layout/join.png" width="500px" /> |
 
 ### 개인 공간 페이지
 
@@ -85,7 +85,7 @@
 
 |                           편지 작성                           |                            편지함                            |                           편지 읽기                           |
 | :-----------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------------------: |
-| <img src="./readme/feature/letter-write.png" width="200px" /> | <img src="./readme/feature/letter-read.png" width="200px" /> | <img src="./readme/feature/letter-read2.png" width="200px" /> |
+| <img src="./readme/feature/letter-write.png" width="500px" /> | <img src="./readme/feature/letter-read.png" width="500px" /> | <img src="./readme/feature/letter-read2.png" width="500px" /> |
 
 ### 그룹 공간 페이지
 
@@ -93,11 +93,11 @@
 
 |                      사진 픽셀 변환                      |                          사진 지도                          |
 | :------------------------------------------------------: | :---------------------------------------------------------: |
-| <img src="./readme/feature/photoImg.png" width="300px"/> | <img src="./readme/feature/photoMapImg.png" width="300px"/> |
+| <img src="./readme/feature/photoImg.png" width="500px"/> | <img src="./readme/feature/photoMapImg.png" width="500px"/> |
 
 |                          방명록                           |                          라디오                          |
 | :-------------------------------------------------------: | :------------------------------------------------------: |
-| <img src="./readme/feature/guestbook.png" width="300px"/> | <img src="./readme/feature/radioImg.png" width="300px"/> |
+| <img src="./readme/feature/guestbook.png" width="500px"/> | <img src="./readme/feature/radioImg.png" width="500px"/> |
 
 |  실제 화면 및 적용한 애니메이션 효과   |
 | :------------------------------------: |
@@ -106,6 +106,8 @@
 |          말풍선 사용 (UCC 일부)           |
 | :---------------------------------------: |
 | <img src="./readme/map/speechbubble.gif"> |
+
+<br><br>
 
 ## 기술 스택
 
@@ -120,7 +122,7 @@
 ![vite](http://img.shields.io/badge/vite-fafafa?style=for-the-badge&logo=vite)
 ![tailwind](http://img.shields.io/badge/tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
----
+
 
 ### BACKEND
 
@@ -134,7 +136,7 @@
 ![websocket](http://img.shields.io/badge/websocket-212121?style=for-the-badge)
 ![SMTP](http://img.shields.io/badge/SMTP-454545?style=for-the-badge)
 
----
+
 
 ### INFRA
 
@@ -144,7 +146,7 @@
 ![prometheus](http://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![grafana](http://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
----
+
 
 ### DATA
 
@@ -152,7 +154,7 @@
 ![Redis](http://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![S3](http://img.shields.io/badge/amazon_s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
----
+
 
 ### TOOLS
 
