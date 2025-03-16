@@ -26,6 +26,13 @@
 
 ## 주요 기능
 
+### 그룹 내 멀티 플레이어 모션 및 실시간 채팅
+
+- 같은 그룹에 있는 온라인 사용자끼리 위치 정보를 주고 받아 서로의 움직임을
+  확인할 수 있습니다.
+- 실시간으로 채팅을 주고 받을 수 있고, 이를 말풍선 및 채팅창으로 확인할 수
+  있습니다.
+
 ### 편지 작성
 
 - 내가 가입한 그룹 내에 있는 사람들에게 편지를 작성할 수 있습니다.
@@ -68,64 +75,96 @@
 
 ![main](./readme/layout/image.png)
 
-|                     로그인                     |                   회원가입                    |
-| :--------------------------------------------: | :-------------------------------------------: |
+|                        로그인                         |                       회원가입                       |
+| :---------------------------------------------------: | :--------------------------------------------------: |
 | <img src="./readme/layout/login.png" width="300px" /> | <img src="./readme/layout/join.png" width="300px" /> |
 
 ### 개인 공간 페이지
 
 ![solo](./readme/map/solo.png)
 
-|                       편지 작성                        |                        편지함                         |                       편지 읽기                        |
-| :----------------------------------------------------: | :---------------------------------------------------: | :----------------------------------------------------: |
+|                           편지 작성                           |                            편지함                            |                           편지 읽기                           |
+| :-----------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------------------: |
 | <img src="./readme/feature/letter-write.png" width="200px" /> | <img src="./readme/feature/letter-read.png" width="200px" /> | <img src="./readme/feature/letter-read2.png" width="200px" /> |
 
 ### 그룹 공간 페이지
 
 ![group](./readme/map/introMap.png)
 
-|                  사진 픽셀 변환                   |                      사진 지도                       |
-| :-----------------------------------------------: | :--------------------------------------------------: |
+|                      사진 픽셀 변환                      |                          사진 지도                          |
+| :------------------------------------------------------: | :---------------------------------------------------------: |
 | <img src="./readme/feature/photoImg.png" width="300px"/> | <img src="./readme/feature/photoMapImg.png" width="300px"/> |
 
-|                       방명록                       |                      라디오                       |
-| :------------------------------------------------: | :-----------------------------------------------: |
+|                          방명록                           |                          라디오                          |
+| :-------------------------------------------------------: | :------------------------------------------------------: |
 | <img src="./readme/feature/guestbook.png" width="300px"/> | <img src="./readme/feature/radioImg.png" width="300px"/> |
+
+|  실제 화면 및 적용한 애니메이션 효과   |
+| :------------------------------------: |
+| <img src="./readme/map/animation.gif"> |
+
+|          말풍선 사용 (UCC 일부)           |
+| :---------------------------------------: |
+| <img src="./readme/map/speechbubble.gif"> |
 
 ## 기술 스택
 
 ### FRONTEND
 
-<img src="./readme/stack/front_stack.JPG" />
+![react](http://img.shields.io/badge/React-2E2E2E?style=for-the-badge&logo=React&logoColor=61DAFB)
+![js](http://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![pixijs](http://img.shields.io/badge/pixijs-E72264?style=for-the-badge)
+![stompjs](http://img.shields.io/badge/stompjs-57CFB9?style=for-the-badge)
+![redux](http://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux)
+![axios](http://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&)
+![vite](http://img.shields.io/badge/vite-fafafa?style=for-the-badge&logo=vite)
+![tailwind](http://img.shields.io/badge/tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
 ### BACKEND
 
-<img src="./readme/stack/back_stack.jpg"/>
+![java](http://img.shields.io/badge/java-1774B8?style=for-the-badge)
+![springboot](http://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![security](http://img.shields.io/badge/security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![dataJPA](http://img.shields.io/badge/data_Jpa-6DB33F?style=for-the-badge)
+![swagger](http://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![OAuth2](http://img.shields.io/badge/oauth_2.0-212121?style=for-the-badge)
+![openAI](http://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white)
+![websocket](http://img.shields.io/badge/websocket-212121?style=for-the-badge)
+![SMTP](http://img.shields.io/badge/SMTP-454545?style=for-the-badge)
 
 ---
 
 ### INFRA
 
-<img src="./readme/stack/infra_stack.jpg" />
+![AWS EC2](http://img.shields.io/badge/aws_ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Jenkins](http://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![nginx](http://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![prometheus](http://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![grafana](http://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
 ### DATA
 
-<img src="./readme/stack/data_stack.jpg" />
+![MySQL](http://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Redis](http://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![S3](http://img.shields.io/badge/amazon_s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
 ---
 
 ### TOOLS
 
-<img src="./readme/stack/tool_stack.jpg" />
+![git](http://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![jira](http://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![notion](http://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![slack](http://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+<br><br>
 
 ## 팀원 구성
 
 | 송도언(팀장) | 김도예 | 윤대영 | 이현수 | 정 훈 |  홍성우   |
 | :----------: | :----: | :----: | :----: | :---: | :-------: |
 |      BE      |   FE   |   FE   |   BE   |  FE   | Infra, BE |
-
-## 회고
