@@ -20,7 +20,6 @@
 
 ### - [팀원 구성](#팀원-구성)
 
-### - [회고](#회고)
 
 <br><br>
 
@@ -111,7 +110,7 @@
 
 ## 기술 스택
 
-### FRONTEND
+**FRONTEND**
 
 ![react](http://img.shields.io/badge/React-2E2E2E?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![js](http://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -124,7 +123,7 @@
 
 
 
-### BACKEND
+**BACKEND**
 
 ![java](http://img.shields.io/badge/java-1774B8?style=for-the-badge)
 ![springboot](http://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -138,7 +137,7 @@
 
 
 
-### INFRA
+**INFRA**
 
 ![AWS EC2](http://img.shields.io/badge/aws_ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![Jenkins](http://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -148,7 +147,7 @@
 
 
 
-### DATA
+**DATA**
 
 ![MySQL](http://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Redis](http://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
@@ -156,7 +155,7 @@
 
 
 
-### TOOLS
+**TOOLS**
 
 ![git](http://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![jira](http://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
