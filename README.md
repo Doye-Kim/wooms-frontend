@@ -20,7 +20,6 @@
 
 ### - [팀원 구성](#팀원-구성)
 
-
 <br><br>
 
 ## 주요 기능
@@ -102,7 +101,7 @@
 | :------------------------------------: |
 | <img src="./readme/map/animation.gif"> |
 
-|          말풍선 사용 (UCC 일부)           |
+|      이동 및 말풍선 사용 (UCC 일부)       |
 | :---------------------------------------: |
 | <img src="./readme/map/speechbubble.gif"> |
 
@@ -121,8 +120,6 @@
 ![vite](http://img.shields.io/badge/vite-fafafa?style=for-the-badge&logo=vite)
 ![tailwind](http://img.shields.io/badge/tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-
-
 **BACKEND**
 
 ![java](http://img.shields.io/badge/java-1774B8?style=for-the-badge)
@@ -135,8 +132,6 @@
 ![websocket](http://img.shields.io/badge/websocket-212121?style=for-the-badge)
 ![SMTP](http://img.shields.io/badge/SMTP-454545?style=for-the-badge)
 
-
-
 **INFRA**
 
 ![AWS EC2](http://img.shields.io/badge/aws_ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
@@ -145,15 +140,11 @@
 ![prometheus](http://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![grafana](http://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-
-
 **DATA**
 
 ![MySQL](http://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Redis](http://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![S3](http://img.shields.io/badge/amazon_s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-
-
 
 **TOOLS**
 
